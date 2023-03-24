@@ -18,8 +18,8 @@
     ],
     "require": {
         "php": ">=8.0",
-        "xiaohuasheng0x1/web3-php": "^1.0",
-        "xiaohuasheng0x1/tron-api": "~1.1",
+        "xiaohuasheng0x1/web3-php": "*",
+        "xiaohuasheng0x1/tron-api": "*",
         "ionux/phactor": "1.0.8",
         "kornrunner/keccak": "~1.0"
     },
