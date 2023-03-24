@@ -11,6 +11,9 @@ use InvalidArgumentException;
 
 class TRC20 extends TRX
 {
+    protected $tron;
+    protected $_api;
+    protected $decimals;
     protected $contractAddress;
 
     public function __construct(Api $_api, array $config)
