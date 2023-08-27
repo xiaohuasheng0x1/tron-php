@@ -36,5 +36,9 @@
         "psr-4": {
             "Test\\": "tests/"
         }
-    }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "prefer-stable": true
 }
