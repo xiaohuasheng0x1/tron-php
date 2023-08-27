@@ -1,6 +1,6 @@
 {
     "name": "xiaohuasheng0x1/tron-php",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Support TRON's TRX and TRC20, which include functions such as address creation, balance query, transaction transfer, query the latest blockchain, query information based on the blockchain, and query information based on the transaction hash",
     "keywords": [
         "php",
@@ -19,8 +19,8 @@
     ],
     "require": {
         "php": ">=8.0",
-        "xiaohuasheng0x1/web3-php": "^1.0",
-        "xiaohuasheng0x1/tron-api": "~1.0",
+        "xiaohuasheng0x1/web3-php": "^1.0.0",
+        "xiaohuasheng0x1/tron-api": "^1.0.0",
         "ionux/phactor": "1.0.8",
         "kornrunner/keccak": "~1.0"
     },
